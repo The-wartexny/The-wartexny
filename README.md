@@ -2,9 +2,9 @@
   
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="500" style="object-fit: cover;">
 
-# 👋 Привет, я The-wartexny!
+# wartexny!
   
-**Full-Stack Developer | Multi-Language Enthusiast | System Architect**
+**backend developer**
   
 </div>
 
