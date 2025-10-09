@@ -22,15 +22,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🛠️ Мой стек технологий
+## 🛠️ Знания
 
 <div align="center">
 
-### 💻 Языки программирования
-<img src="https://skillicons.dev/icons?i=python,nodejs,cpp,cs,rust&theme=dark">
-
-### 🛠️ Инструменты и платформы
-<img src="https://skillicons.dev/icons?i=vscode,docker,mongodb,git,github,linux&theme=dark">
+<img src="https://skillicons.dev/icons?i=python,nodejs,cpp,cs,rust,vscode,docker,mongodb,git,github,linux&theme=dark">
 
 </div>
 
@@ -73,17 +69,6 @@
 
 </div>
 
-## 📫 Свяжитесь со мной
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/your_profile/)
-
-</div>
-
 ## 🎯 Цели на 2024
 
 - [ ] Освоить продвинутые возможности Rust
@@ -91,13 +76,3 @@
 - [ ] Создать open-source проект на Python
 - [ ] Углубить знания в системном программировании
 - [ ] Участвовать в хакатонах и coding challenges
-
----
-
-<div align="center">
-  
-### 💻 **От низкоуровневого кода до высокоуровневых решений** 💻
-  
-*"Первые 90% кода занимают 10% времени. Оставшиеся 10% кода занимают остальные 90% времени."* - Том Каргилл
-  
-</div>
