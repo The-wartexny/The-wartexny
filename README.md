@@ -30,34 +30,7 @@
 
 </div>
 
-## 💼 Опыт и проекты
-
-### 🔥 Текущие проекты
-- **High-Performance System**: Разработка на Rust и C++
-- **Web API**: Backend на Node.js и Python
-- **Database Solutions**: Работа с MongoDB и другими NoSQL БД
-- **DevOps**: Автоматизация с Docker и Linux
-
-### 🎯 Навыки
-- **Языки**: Python, Node.js, C++, C#, Rust
-- **Backend**: REST API, Microservices, System Architecture
-- **Базы данных**: MongoDB, SQL, Database Design
-- **DevOps**: Docker, Linux, CI/CD, Containerization
-- **Инструменты**: VS Code, Git, GitHub, Bash
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🚀 Мои проекты
-
-### 🔧 Системное программирование
-- **Rust System Tools** - Высокопроизводительные утилиты на Rust
-- **C++ Game Engine** - Кастомный игровой движок
-- **Python Automation** - Скрипты автоматизации
-
-### 🌐 Веб-разработка
-- **Node.js API** - Масштабируемые backend решения
-- **C# Services** - Enterprise-level приложения
-- **Database Architectures** - Оптимизация и проектирование БД
 
 ## 📈 Активность
 
@@ -69,10 +42,9 @@
 
 </div>
 
-## 🎯 Цели на 2024
+## 🎯 Цели на 2025
 
-- [ ] Освоить продвинутые возможности Rust
-- [ ] Разработать high-load систему на C++
-- [ ] Создать open-source проект на Python
-- [ ] Углубить знания в системном программировании
-- [ ] Участвовать в хакатонах и coding challenges
+- [ ] Продолжить изучать Rust и C++
+- [ ] Углубить знания в FastApi
+- [ ] В скором времени начать учить Go
+- [ ] Сделать Reload версию пробив-бота
