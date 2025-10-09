@@ -1,12 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=The-wartexny🚀&fontSize=50&fontAlign=50&fontAlignY=35&animation=fadeIn)
-
 <div align="center">
   
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="200" style="object-fit: cover;">
+
 # 👋 Привет, я The-wartexny!
   
 **Full-Stack Developer | Multi-Language Enthusiast | System Architect**
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200">
   
 </div>
 
