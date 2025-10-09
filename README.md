@@ -8,7 +8,7 @@
   
 </div>
 
-## 📊 Моя статистика GitHub
+## 📊 Статистика
 
 <div align="center">
   
@@ -29,16 +29,6 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 📈 Активность
-
-<div align="center">
-
-![Профиль The-wartexny](https://komarev.com/ghpvc/?username=The-wartexny&color=blueviolet&style=flat-square)
-![Репозитории](https://badges.pufler.dev/repos/The-wartexny?color=blueviolet)
-![Коммиты](https://badges.pufler.dev/commits/monthly/The-wartexny?color=blueviolet)
-
-</div>
 
 ## 🎯 Цели на будущее
 
