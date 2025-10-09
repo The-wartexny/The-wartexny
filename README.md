@@ -11,10 +11,12 @@
 ## 📊 Статистика
 
 <div align="center">
-  
-| ![Статистика The-wartexny](https://github-readme-stats.vercel.app/api?username=The-wartexny&show_icons=true&theme=radical) | ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=The-wartexny&layout=compact&theme=radical) |
-| ------------- | ------------- |
-| ![Трофеи](https://github-profile-trophy.vercel.app/?username=The-wartexny&theme=radical) |
+
+![Статистика The-wartexny](https://github-readme-stats.vercel.app/api?username=The-wartexny&show_icons=true&theme=radical)
+![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=The-wartexny&layout=compact&theme=radical)
+
+![Трофеи](https://github-profile-trophy.vercel.app/?username=The-wartexny&theme=radical)
+
 ![Граф активности](https://github-readme-activity-graph.vercel.app/graph?username=The-wartexny&theme=react-dark)
 
 </div>
