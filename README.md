@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,cpp,cs,rust,vscode,docker,mongodb,git,github,linux&theme=dark">
+<img src="https://skillicons.dev/icons?i=python,nodejs,cpp,cs,rust,sql,html,css,vscode,docker,mongodb,git,github,linux&theme=dark">
 
 </div>
 
@@ -42,7 +42,7 @@
 
 </div>
 
-## 🎯 Цели на 2025
+## 🎯 Цели на будущее
 
 - [ ] Продолжить изучать Rust и C++
 - [ ] Углубить знания в FastApi
