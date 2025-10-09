@@ -4,13 +4,13 @@
   
 # 👋 Привет, я The-wartexny!
   
-**Full-Stack Developer | Tech Enthusiast | Problem Solver**
+**Full-Stack Developer | Multi-Language Enthusiast | System Architect**
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200">
   
 </div>
 
-## 📊 Моя статистика
+## 📊 Моя статистика GitHub
 
 <div align="center">
   
@@ -26,27 +26,42 @@
 
 <div align="center">
 
-<!-- ВСТАВЬТЕ ВАШИ ИКОНКИ ЗДЕСЬ -->
-<!-- Замените на нужные вам технологии -->
-<img src="https://skillicons.dev/icons?i=react,nodejs,ts,py,go,aws,docker,kubernetes,redis,postgres,mongodb,git,github,linux,vscode&theme=dark">
+### 💻 Языки программирования
+<img src="https://skillicons.dev/icons?i=python,nodejs,cpp,cs,rust&theme=dark">
+
+### 🛠️ Инструменты и платформы
+<img src="https://skillicons.dev/icons?i=vscode,docker,mongodb,git,github,linux&theme=dark">
 
 </div>
 
 ## 💼 Опыт и проекты
 
 ### 🔥 Текущие проекты
-- **Проект А**: Описание вашего крутого проекта
-- **Проект Б**: Еще один интересный проект
-- **Open Source**: Участие в опенсорс сообществе
+- **High-Performance System**: Разработка на Rust и C++
+- **Web API**: Backend на Node.js и Python
+- **Database Solutions**: Работа с MongoDB и другими NoSQL БД
+- **DevOps**: Автоматизация с Docker и Linux
 
 ### 🎯 Навыки
-- **Frontend**: React, TypeScript, HTML5, CSS3
-- **Backend**: Node.js, Python, Go
-- **Базы данных**: PostgreSQL, MongoDB, Redis
-- **DevOps**: Docker, Kubernetes, AWS, Linux
-- **Инструменты**: Git, VS Code, Figma
+- **Языки**: Python, Node.js, C++, C#, Rust
+- **Backend**: REST API, Microservices, System Architecture
+- **Базы данных**: MongoDB, SQL, Database Design
+- **DevOps**: Docker, Linux, CI/CD, Containerization
+- **Инструменты**: VS Code, Git, GitHub, Bash
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🚀 Мои проекты
+
+### 🔧 Системное программирование
+- **Rust System Tools** - Высокопроизводительные утилиты на Rust
+- **C++ Game Engine** - Кастомный игровой движок
+- **Python Automation** - Скрипты автоматизации
+
+### 🌐 Веб-разработка
+- **Node.js API** - Масштабируемые backend решения
+- **C# Services** - Enterprise-level приложения
+- **Database Architectures** - Оптимизация и проектирование БД
 
 ## 📈 Активность
 
@@ -65,22 +80,23 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/your_profile/)
 
 </div>
 
 ## 🎯 Цели на 2024
 
-- [ ] Изучить новые технологии
-- [ ] Внести вклад в 5+ open-source проектов
-- [ ] Разработать собственный SaaS продукт
-- [ ] Провести 1000+ код-ревью
+- [ ] Освоить продвинутые возможности Rust
+- [ ] Разработать high-load систему на C++
+- [ ] Создать open-source проект на Python
+- [ ] Углубить знания в системном программировании
+- [ ] Участвовать в хакатонах и coding challenges
 
 ---
 
 <div align="center">
   
-### 💻 **Код каждый день, прогресс навсегда!** 💻
+### 💻 **От низкоуровневого кода до высокоуровневых решений** 💻
   
 *"Первые 90% кода занимают 10% времени. Оставшиеся 10% кода занимают остальные 90% времени."* - Том Каргилл
   
