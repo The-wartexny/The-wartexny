@@ -28,6 +28,11 @@ I'm a developer who builds applications using Python, Node.js, and C++,<br>manag
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
 ## gitHub stats:
-![](https://github-readme-stats.shion.dev/api?username=The-wartexny&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=The-wartexny&theme=blueberry&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=The-wartexny&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=The-wartexny&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false" alt="Stats" />
+  <img src="https://streak-stats.demolab.com/?user=The-wartexny&theme=blueberry&hide_border=false" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=The-wartexny&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
