@@ -1,8 +1,6 @@
 # wartexny
 I'm a developer who builds applications using Python, Node.js, and C++,<br>managing code with Git, containerizing with Docker, and spending late nights in VS Code<br>on Arch Linux to build custom systems and automation tools.
 
-## tech stack:
-
 ### languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -27,7 +25,6 @@ I'm a developer who builds applications using Python, Node.js, and C++,<br>manag
 ### gaming & links
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
-## gitHub stats:
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=The-wartexny&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false" alt="Stats" />
   <img src="https://streak-stats.demolab.com/?user=The-wartexny&theme=blueberry&hide_border=false" alt="Streak" />
